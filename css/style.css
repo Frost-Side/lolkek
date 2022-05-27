@@ -1,0 +1,11 @@
+.vk {
+    color: #000;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
